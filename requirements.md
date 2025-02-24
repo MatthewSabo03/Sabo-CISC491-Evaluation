@@ -1,6 +1,6 @@
 ----------------High-Level Component Architecture----------------
 -	Frontend
-o	A simple and responsive website 
+  o	A simple and responsive website 
 
 -----------------------Top Level Goals---------------------------
 -	
